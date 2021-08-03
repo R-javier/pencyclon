@@ -236,11 +236,23 @@ section .titular{
 }
 
 .chica{
-    height:40%;
+    height:45%;
+    width: 25%;
+    margin:2px
 }
 
 .normal{
-   height:55%;
+   height:60%;
+   width: 32%;
+}
+
+.dere{
+   margin-left: 40px;
+   margin-top:150px
+}
+.izq{
+    margin-right: 40px;
+    margin-top:150px
 }
 
 .parr-boton p{
